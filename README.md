@@ -11,5 +11,5 @@ Add `DEPLOY_BRANCH` as a deploy target or application environment variable.
 
 ```
     - smulube/verify-branch:
-        name: $DEPLOY_BRANCH
+        branch: $DEPLOY_BRANCH
 ```
