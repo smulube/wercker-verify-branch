@@ -1,5 +1,5 @@
 name: verify-branch
-version: 0.0.2
+version: 0.0.3
 description: Verify that the build or deploy is on a specific branch
 properties:
   branch:
